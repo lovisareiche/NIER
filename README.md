@@ -1,4 +1,4 @@
-# Codes for "Does the Bnak of England need gendered communication?"
+# Codes for "Does the Bank of England need gendered communication?"
 
 ## Clean data:
 ### prepdata.R
