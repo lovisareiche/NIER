@@ -9,7 +9,7 @@ recodes age and income, creates point estimates from perception and expectations
 creates timeseries plot with all gender gaps
 
 ### regressions.R
-creates tables: boeknowreg, pireg, piregint, pibadreg, BOEsatreg, boesources
+creates tables: boeknowreg, pireg, piregint, pibadreg, BOEsatreg, boesources;
 table boeknowregsources can be found when looking at the output og model sourceboe_2 manually
 
 ### sources.R
